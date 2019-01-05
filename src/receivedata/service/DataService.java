@@ -1,0 +1,6 @@
+package receivedata.service;
+
+public interface DataService {
+	//±£´æÊý¾Ý
+	void save(String msg);
+}
